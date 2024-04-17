@@ -1,6 +1,4 @@
-header {
-    background-color: #424E61;
-}
+
 header {
     background-color: #424E61;
     color: white;
@@ -50,15 +48,6 @@ header {
     margin: 0 16px;
     font-size: 24px;
 }
-.escola-imagem{
-    width: 25%;
-}
-.escola{
-    background-image: linear-gradient();
-}
-.escola{
-    background-image: linear-gradient(#424E61, #4EBFE9);
-}
 .escola{
     background-image: linear-gradient(#424E61, #4EBFE9);
     color: white;
@@ -74,19 +63,7 @@ header {
 .escola-titulo{
     padding: 24px 0;
 }
-.escola{
-    background-image: linear-gradient(#424E61, #4EBFE9);
-    color: white;
-    display: flex;
-    justify-content: center;
-}
-.escola{
-    background-image: linear-gradient(#424E61,#16CFF8);
-    color:white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+
 .escola{
     background-image: linear-gradient(#424E61,#16CFF8);
     color:white;
@@ -198,9 +175,6 @@ body {
 }
 
 
-.escola-titulo{
-    padding: 24px 0;
-}
 
 .estudante{
     padding: 24px 0;
@@ -280,10 +254,6 @@ body {
     width: 35%;
 }
 
-
-.escola-titulo{
-    padding: 24px 0;
-}
 
 .estudante{
     padding: 24px 0;
